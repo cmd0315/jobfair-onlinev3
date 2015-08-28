@@ -1,0 +1,5 @@
+Comment installer cette configuration:
+
+
+- Remplacez le fichier "config.inc.php" par celui-ci
+
